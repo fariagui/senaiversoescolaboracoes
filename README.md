@@ -22,6 +22,16 @@
 1. git tag
 1. git push -u origin --tags
 
+
+
+
+
+
+
+
+
+
+
 Autor do projeto 
 =========================
 **Guilherme Faria**
